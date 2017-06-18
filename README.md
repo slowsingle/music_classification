@@ -10,7 +10,7 @@ sound2melspec.py : 音楽以外の音、足音や機械音などのwavファイ�
 ・実行 \
 $ python train.py
 
-・推論は以下のどちらかを実行
+・推論は以下のどちらかを実行 \
 predict_by_pyaudio.py : 音声入力にpyaudioを使う人向け（Mac, Windows） \
 predict_by_alsaaudio.py : 音声入力にalsaaudioを使う人向け（Linux）
 
